@@ -12,3 +12,11 @@
   font-style: oblique;
   color: #0000ff;
 }
+
+.about {
+  background: linear-gradient(to bottom, #33ccff 0%, #009900 100%); 
+  align-items: center;
+  font-family: cursive;
+  font-weight: 400;
+}
+]
