@@ -1,0 +1,14 @@
+.homecoming {
+  background: linear-gradient(to bottom, #ff6600 0%, #ff0000 100%);
+}
+
+.dates {
+  font-family: cursive;
+  color: green;
+}
+
+.sad {
+  font-family: monospace;
+  font-style: oblique;
+  color: #0000ff;
+}
